@@ -1,2 +1,4 @@
 *.class
 *.log
+
+logca/.ipynb_checkpoints/*
