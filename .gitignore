@@ -2,3 +2,4 @@
 *.log
 
 logca/.ipynb_checkpoints/*
+logca/.venv/*
